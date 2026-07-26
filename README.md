@@ -29,7 +29,7 @@ The boat leaves at dusk. Silas will not wait.
 
 A full, playtested cosmic horror mystery campaign for 3–5 players, built on the 5e ruleset, designed to run across multiple sessions and character levels. It begins as a murder investigation and becomes something considerably larger.
 
-This campaign was designed, written, and illustrated by me, and run to completion with my own table before release. It prioritizes investigation, atmosphere, and meaningful choice over combat as the primary mode of engagement, and includes several original systems built specifically for it:
+This campaign was designed, written, and playtested by me and my DnD group; and illustrated using AI, and run to completion with my own table before release. It prioritizes investigation, atmosphere, and meaningful choice over combat as the primary mode of engagement, and includes several original systems built specifically for it:
 
 - **A Sanity mechanic** that doesn't just count down toward a bad ending — it's a key. The less of it a character has, the more of Stiltsmere becomes visible to them.
 - **A Layer System** for physical and virtual tables, letting DMs reveal hidden map elements (ghosts, doorways, sigils, and more) without redrawing anything.
@@ -41,7 +41,7 @@ This campaign was designed, written, and illustrated by me, and run to completio
 - `Sanity & Scaling Guide` — the custom mechanic, explained.
 - `The Souring of Stiltsmere: A Campaign Guide` — the full campaign.
 - `About Layers` / `Universal Layer Applications` / `The DM's Layer Library` — the map system, plus a version usable in any campaign, not just this one.
-- Cover art and supporting images.
+- `Cover art`.
 
 Player-facing material (the opening prose) can be shared with your table freely. Everything from the DM's Primer onward is DM-facing unless your group specifically enjoys shared dramatic irony.
 
